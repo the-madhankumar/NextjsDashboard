@@ -1,4 +1,4 @@
-
+![Screenshot 2024-06-10 214850](https://github.com/the-madhankumar/NextjsDashboard/assets/123907939/13914d14-3814-4daa-bead-12dec6520ca6)
 # NextjsDashboard
 
 Welcome to NextjsDashboard! This is a [Next.js](https://nextjs.org/) project that serves as a dynamic UI dashboard built with shadcn/ui and Nivo charts.
